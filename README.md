@@ -15,7 +15,7 @@ Welcome to the official repository for the Real Cricket custom patch! This patch
 You can download the latest version of the patch directly from the **Releases** section on the right side of this repository.
 
 > **⚠️ Note:** The patch file is password-protected. To get the password and complete installation guide, watch the full video on my YouTube channel:
-> 👉 **[Watch Video Here - PG Gaming Empire]([https://youtube.com/@PGGAMINGEMPIRE](https://youtu.be/UXx2be5jI7g?si=g1vMkT9dDL8qE5KR))**
+> 👉 **[Watch Video Here - PG Gaming Empire]([https://youtu.be/UXx2be5jI7g?si=g1vMkT9dDL8qE5KR]**
 
 ---
 
